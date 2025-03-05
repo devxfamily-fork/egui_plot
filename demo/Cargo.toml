@@ -5,7 +5,6 @@ include = ["../LICENSE-APACHE", "../LICENSE-MIT", "**/*.rs", "Cargo.toml"]
 license.workspace = true
 name = "demo"
 publish = false
-rust-version.workspace = true
 version.workspace = true
 default-run = "demo"
 

@@ -14,7 +14,6 @@ license.workspace = true
 name = "egui_plot"
 readme = "../README.md"
 repository = "https://github.com/emilk/egui_plot"
-rust-version.workspace = true
 version.workspace = true
 
 [lints]
